@@ -1,0 +1,133 @@
+/*
+estilos css de Byron 1
+*/
+body{
+				margin: 0;
+}
+
+
+.correo, .informacion, .pie{
+				padding: 0 30px;
+				display: block;
+				overflow: hidden;
+				color: white;
+			
+}
+/*Fondo de recuadro*/
+.centro{
+				width: 650px;
+				margin: 0 auto;
+				border-left: 1px solid #cccccc;
+				border-right: 1px solid #cccccc;
+				background-color: #0f1722;
+}
+
+/*Parte de arriba*/
+.encabezado{
+				background: #03e9f4;
+				display: block;
+				padding: 40px 0 30px 0 ;
+				
+}
+
+.izquierda, .derecha{
+				width: 50%;
+				float: left;
+}
+
+.informacion img{
+				margin: 0 auto;
+				display: block;
+}
+
+.informacion p, .informacion a{
+				padding: 0 10px ;
+}
+
+.informacion p{
+				text-align: justify;
+}
+
+.pie{
+				background: #03e9f4;
+				padding: 15px 30px ;
+				margin-top: 30px;
+}
+
+/*Tamaño de Logo derecho Byron Studios*/
+.studio{
+				width: 120px;
+				display: inline;				
+				text-decoration:none;
+				margin-left: 183px;
+				vertical-align: middle;		
+				margin-top: 10px;
+}
+
+/*Boton Rojo*/
+button {
+background-color: #ff2a15;
+border-color: #03e9f4;
+color: black;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+/*Boton Verde*/
+.button1 {
+background-color: #7bff55;
+border-color: #03e9f4;
+color: black;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+/*Boton Amarillo*/
+.button2{
+background-color: #ffe715;
+border-color: #03e9f4;
+color: black;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;				
+}
+
+/*Color de Fecha*/
+.fecha{
+color: #00ff18;
+}
+
+/*Tamaño de letras de arriba MGG*/
+.te{
+width: 650px;
+}
+
+/*Tamaño de imagen de Sunny day*/
+.ele{
+				width: 240px;
+}
+
+.informacion .like{
+				width: 26px;
+				display: inline;				
+				text-decoration:none;
+				margin-left: 70px;
+				vertical-align: middle;
+}
+
+/*Logos de contactar*/
+.hola{
+				width: 45px;
+				display: inline;				
+				text-decoration:none;
+				margin-left: 15px;
+				vertical-align: middle;				
+}
